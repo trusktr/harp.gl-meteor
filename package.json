@@ -13,7 +13,7 @@
     "@here/harp-map-theme": "^0.13.0",
     "@here/harp-mapview": "^0.13.1",
     "@here/harp-omv-datasource": "^0.13.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "meteor-node-stubs": "^1.0.0",
     "three": "^0.112.1"
   },
