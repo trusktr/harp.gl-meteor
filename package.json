@@ -15,7 +15,7 @@
     "@here/harp-omv-datasource": "^0.13.1",
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0",
-    "three": "^0.112.1"
+    "three": "^0.125.0"
   },
   "meteor": {
     "mainModule": {
